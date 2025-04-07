@@ -35,8 +35,8 @@ Rubicon Systems provides a pre-built executable for easy setup—no compiling re
 
 1. **Clone the repository to your system**
    ```sh
-   https://github.com/mila-launen-otu/travelGo.git
-   cd travelGo
+   https://github.com/mila-launen-otu/travelGo.git 
+   cd path/travelGo /*change your directory to where you've cloned TravelGo*/
    ```
 2. **To build and Executable**
    ```sh
