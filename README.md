@@ -31,23 +31,15 @@ Rubicon Systems is a **Travel Package Management System** designed to help admin
 
 ## 🛠️ Installation & Running the Program
 
-Rubicon Systems provides a pre-built executable for easy setuP, no compiling required!
+Rubicon Systems provides a pre-built executable for easy setup, no compiling required!
 
-1. **Clone the repository to your system**
-   ```sh
-   bash git clone https://github.com/mila-launen-otu/travelGo.git 
-   cd path/travelGo # change your directory to where you've cloned TravelGo
-   ```
-3. **To build and Executable**
-   ```sh
-   mvn javafx:jlink
-   ```
-4. **To Run Application**
-   ```sh
-   mvn javafx:run
-   ```
-5. **To view images in detailed view** <br>
-   In the executable package, copy the src folder to the bin folder of the app
+1. Go to the [Releases](https://github.com/mila-launen-otu/travelGo/releases/tag/v1.0.0) section of this repository.
+   
+2. Download the zip files under **Assets**
+
+3. Once unzipped, open the app folder and click on the Travel Go shortcut to simply run the program!
+   
+5. In the executable package, make sure that the src folder has been copied into the bin folder of the app
 ---
 
 ## ⚙️ **Project Requirements**
