@@ -33,14 +33,7 @@ Rubicon Systems is a **Travel Package Management System** designed to help admin
 
 Rubicon Systems provides a pre-built executable for easy setup—no compiling required!
 
-### 📦 Download
-1. Go to the releases(add link) section of this repository.
-2. Download the latest `.jar` file,
-
-### 🚀 How to Run (On Windows / Mac / Linux):
-```bash
-java -jar RubiconTravelSystem-v1.0.jar
-```
+(add)
 
 ---
 
