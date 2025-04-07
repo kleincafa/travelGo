@@ -33,8 +33,19 @@ Rubicon Systems is a **Travel Package Management System** designed to help admin
 
 Rubicon Systems provides a pre-built executable for easy setup—no compiling required!
 
-(add)
-
+1. **Clone the repository to your system**
+   ```sh
+   https://github.com/mila-launen-otu/travelGo.git
+   cd travelGo
+   ```
+2. **To build and Executable**
+   ```sh
+   mvn javafx:jlink
+   ```
+3. **To Run Application**
+   ```sh
+   mvn javafx:run
+   ```
 ---
 
 ## ⚙️ **Project Requirements**
