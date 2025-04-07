@@ -35,14 +35,14 @@ Rubicon Systems provides a pre-built executable for easy setup—no compiling re
 
 1. **Clone the repository to your system**
    ```sh
-   https://github.com/mila-launen-otu/travelGo.git 
-   cd path/travelGo /*change your directory to where you've cloned TravelGo*/
+   bash git clone https://github.com/mila-launen-otu/travelGo.git 
+   cd path/travelGo # change your directory to where you've cloned TravelGo
    ```
-2. **To build and Executable**
+3. **To build and Executable**
    ```sh
    mvn javafx:jlink
    ```
-3. **To Run Application**
+4. **To Run Application**
    ```sh
    mvn javafx:run
    ```
