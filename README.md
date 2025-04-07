@@ -98,6 +98,6 @@ Rubicon Systems provides a pre-built executable for easy setuP, no compiling req
 ---
 
 ## 🏛️ Final Product: **TravelGo**
-A decisive step forward in travel management by **Rubicon Systems**—where bold ideas become reality.
+A decisive step forward in travel management by **Rubicon Systems**, where bold ideas become reality.
 
 ---
