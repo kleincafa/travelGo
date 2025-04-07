@@ -46,7 +46,7 @@ Rubicon Systems provides a pre-built executable for easy setuP, no compiling req
    ```sh
    mvn javafx:run
    ```
-5. **To view images in detailed view**
+5. **To view images in detailed view** <br>
    In the executable package, copy the src folder to the bin folder of the app
 ---
 
