@@ -61,7 +61,9 @@ Rubicon Systems provides a pre-built executable for easy setup—no compiling re
 - [X] System Testing
 - [X] Admin Login
 
-📜 **Project Taskboard**  
+---
+
+## 📜 **Project Taskboard**  
 (https://github.com/users/KendraP5/projects/2)
 
 ---
