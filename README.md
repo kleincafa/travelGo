@@ -31,7 +31,7 @@ Rubicon Systems is a **Travel Package Management System** designed to help admin
 
 ## 🛠️ Installation & Running the Program
 
-Rubicon Systems provides a pre-built executable for easy setup—no compiling required!
+Rubicon Systems provides a pre-built executable for easy setuP, no compiling required!
 
 1. **Clone the repository to your system**
    ```sh
@@ -46,6 +46,8 @@ Rubicon Systems provides a pre-built executable for easy setup—no compiling re
    ```sh
    mvn javafx:run
    ```
+5. **To view images in detailed view**
+   In the executable package, copy the src folder to the bin folder of the app
 ---
 
 ## ⚙️ **Project Requirements**
